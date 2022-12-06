@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin:0;
+    background-color: black;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.carrousel {
+    aspect-ratio: 5/4;
+}
