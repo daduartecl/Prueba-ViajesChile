@@ -9,3 +9,7 @@ body {
 .carrousel {
     aspect-ratio: 5/4;
 }
+
+.card-img-top {
+    aspect-ratio: 5/4;
+}
